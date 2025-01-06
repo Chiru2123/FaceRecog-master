@@ -20,7 +20,7 @@ In the project directory, you can run:
 ### `git clone https://github.com/Chiru2123/FaceRecog-master`
 
 ### Install dependencies:
-### `cd FaceRecog`
+### `cd FaceRecog-master`
 ### `npm install`
 
 ### Start the development server:
