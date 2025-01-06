@@ -113,7 +113,7 @@ function App() {
       <div className="footer">
         <p>© 2025 Face Recognition App | Developed with ❤️ by CHIRANJEEVULU CHENNEBOYINA </p>
         <p>
-          For more information, visit our <a href="https://face-api.js.org/" target="_blank" style={{ color: 'white', textDecoration: 'underline' }}>documentation</a>.
+          For more information, visit our <a href="https://github.com/Chiru2123/FaceRecog-master" target="_blank" style={{ color: 'white', textDecoration: 'underline' }}>documentation</a>.
         </p>
       </div>
     </div>
